@@ -15,7 +15,8 @@ export default function Home() {
             <h1 style={{marginTop:"25px",fontFamily:"aries"}}>Welcome</h1>
             <br/>
             <p ><strong>to shopping app</strong></p>
-            <p>This is internship project</p></div>
+            <p>This is internship project</p>
+            <p>There are many more additions to be done.</p></div>
         <div style={{display:"flex",justifyContent:"right",width:"600px"}}>
       <img  style={{width:"400px"}} src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuwKFfvMWRtvLVAMCw27By9C2gk-YYve67A&s'></img>
       </div>
